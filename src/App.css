@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.input {
+  margin-left: 570px;
+  width: 398px;
+  border-color: antiquewhite;
+  color: rgb(47, 42, 79);
+  font-size: x-large;
+  text-align-last: center;
+  background-color: rgb(136, 143, 126);
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+.output {
+  margin-left: 570px;
+  width: 398px;
+  border-color: antiquewhite;
+  color: rgb(47, 42, 79);
+  font-size: xx-large;
+  text-align-last: center;
+  background-color: rgb(136, 143, 126);
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+.button {
+  width: 100px;
+  height: 75px;
+  color: rgb(136, 128, 199);
+  font-size: large;
+  background-color: rgb(47, 53, 37);
+  border-color: antiquewhite;
+}
+
+.App > button:hover,
+.App > button:focus {
+  background-color: rgb(154, 183, 115);
+}
+
+.scientific > button:hover,
+.scientific > button:focus {
+  background-color: rgb(154, 183, 115);
+}
+
+.button0 {
+  width: 200px;
+  height: 75px;
+  color: rgb(136, 128, 199);
+  font-size: x-large;
+  background-color: rgb(47, 53, 37);
+  border-color: antiquewhite;
+}
+
+.scientific {
+  margin-left: -800px;
+  margin-top: -375px;
+}
